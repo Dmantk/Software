@@ -1,2 +1,2 @@
-Need to turn off Windows Security
-Run Crack file with adminstrator permiss
+- Need to turn off Windows Security
+- Run Crack file with adminstrator permiss
