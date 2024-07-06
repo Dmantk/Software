@@ -1,2 +1,1 @@
-- Need to turn off Windows Security
-- Run Crack file with adminstrator permiss
+- Run Crack file with adminstrator -> Then Microsoft Defender Antivirus found and removed this crack file, so need to go to place is warning and change option 'Allow on device'.
